@@ -1,6 +1,6 @@
 用 PHP 实现《大话设计模式》中的设计模式
 
-### 简单工厂模式（Simple Factory）
+### 简单工厂模式（Simple Factory）(../codes/SimpleFactory.php)
 
 聚合关系：聚合表示一种弱的拥有关系，体现的是 A 对象可以包含 B 对象，但 B 对象不是 A 对象的一部分。（雁群和大雁）
 
